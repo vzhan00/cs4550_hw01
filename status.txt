@@ -1,0 +1,30 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Vevey Zhan
+
+2. Which VPS & domain providers did you choose?
+Vultr and nameCheap
+
+3. What domain name did you register?
+vevey-web-dev.com
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/vzhan00/cs4550_hw01
+
+5. Which parts of this assignment did you have trouble with, if any?
+getting nginx to work, and generally just understanding what was even going on
+comfortability with the platform
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
